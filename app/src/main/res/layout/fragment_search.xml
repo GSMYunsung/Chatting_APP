@@ -3,15 +3,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Fragments.Chat_Fragment_">
-
+    tools:context=".Fragments.SearchFragment">
 
     <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="Chats"
-        android:textSize="30dp"
-        android:gravity="center"
-        android:textStyle="bold"/>
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="search"
+    android:textSize="30dp"
+    android:gravity="center"
+    android:textStyle="bold"/>
 
 </RelativeLayout>
